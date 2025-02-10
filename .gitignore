@@ -1,0 +1,7 @@
+*
+!.gitignore
+!glazewm/
+!glazewm/config.yaml
+!zebar/
+!zebar/starter/
+!zebar/starter/with-glazewm.zebar.json
